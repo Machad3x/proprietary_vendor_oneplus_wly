@@ -1908,7 +1908,7 @@
   "VendorTag": "com.oplus.asd.low.memory.params",
   "Type": "String",
   "Count": "2",
-  "Value": "100, 1500000000",
+  "Value": "100, 3000000000",
   "Comment": "skipFrameNum, lowMemoryThreshold"
 },
 
